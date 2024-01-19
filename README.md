@@ -87,6 +87,6 @@ GitHub:
 ## Spielbrett
 Du kannst dir das, für das Spiel entwickelte, Spielbrett anschauen und herunterladen oder dich davon inspirieren lassen und kreativ werden, indem du dein eigenes mit Stift und Papier zeichnest.
 
-=> [Spielbrett anschauen und herunterladen](./assets/game_board/game_board_huge.png)
+=> [Spielbrett anschauen und herunterladen](./assets/game_board/game_board_1000ppi.png)
 
-![Spielbrett (geringe Auflösung)](./assets/game_board/game_board_small.png "Spielbrett (geringe Auflösung!)")
+![Spielbrett (geringe Auflösung)](./assets/game_board/game_board_1x.png "Spielbrett (geringe Auflösung!)")
